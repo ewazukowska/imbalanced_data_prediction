@@ -19,3 +19,8 @@ Imbalanced datasets are a common challenge in machine learning, where the distri
 - **Evaluation Metrics**
   - Area Under Precision-Recall Curve (AUPRC)
   - Area Under Receiver Operating Characteristic Curve (AUROC)
+
+
+## Datasets
+1. Stroke dataset (https://www.kaggle.com/datasets/shashwatwork/cerebral-stroke-predictionimbalaced-dataset)
+2. ChestMNIST (https://medmnist.com/)
